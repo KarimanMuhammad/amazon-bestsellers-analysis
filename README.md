@@ -23,4 +23,4 @@ Raw Data (Excel) → Cleaning (Python ) → Analysis → Power BI
 | Excel       | Initial inspection & cleaning    |
 | Power BI    | Dashboard & visualization        |
 
-e
+
