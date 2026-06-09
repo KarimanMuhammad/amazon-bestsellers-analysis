@@ -4,7 +4,7 @@ End-to-end data analysis project on 10 years of Amazon
 bestselling books — from messy raw data to interactive dashboard.
 
 ## 🖼 Dashboard Preview
-overview_dashboard.png
+![Dashboard](dashboard_preview.png)
 
 ## 🔄 Project Workflow
 Raw Data (Excel) → Cleaning (Python ) → Analysis → Power BI
